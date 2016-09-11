@@ -1,0 +1,12 @@
+# bootstrap_template
+
+Purpose of this project.
+After a lot of successful web projects, I found myself writing almost same code over and over again. Sometimes, I copied codes I wrote before, and sometimes I had to create a new one. Even though there are a lot of websites which share web designs, I decided to create one to share layouts. I try to focus more on layout rather than anything else. So, you may find some high quality images used as thumbnails. Obviously, it's the bad practice, and it's only for demo purposes.
+
+How this project can help you?
+These layouts are basic layouts you will be using in most of your web projects. I try not to add any designs other than basic CSS, so that you can add them to fit your needs and style.
+
+
+
+Why Twitter Bootstrap?
+As you can see, I chose to use Twitter Bootstrap as a main library for creating layouts, and there are a lot of good reasons for it. First of all, it's fast to create layouts and it's easy to understand the code. It has nice pre-built CSS and couple JS Libraries, which are very helpful. For a full info about Twitter Bootstrap, refer to its github page.
